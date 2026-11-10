@@ -1,0 +1,10 @@
+﻿result/video_out/
+*.rar
+*.zip
+*.pt
+*.pth
+runs/
+__pycache__/
+*.pyc
+.idea/
+datasets/
